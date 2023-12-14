@@ -14,11 +14,14 @@
 • **Plotted countplot** for SMS labels Spam vs. Ham
 
 ## Feature Engineering
-• Handling imbalanced dataset using Oversampling<br/>
-![SpamVsHam](readme-resources/svh.png)<br/>
-• **Creating new features** from existing features e.g. **word_count, contains_currency_symbol, contains_numbers**, etc.<br/>
-![word_count](readme-resources/word_count.png)<br/>
-![currency_numbers](readme-resources/currency_numbers.png)
+• Handling imbalanced dataset using Oversampling
+
+![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/aa392f86-ff8e-406e-bb29-322fbda136f7)
+
+![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/11076a59-3a5b-4f14-a208-4d2d2a3c52ec)
+
+![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/bd16a3a8-b267-4e7c-82f6-6fa8f7ed9c4f)
+
 
 ## Data Cleaning
 • Removing special character and numbers using regular expression<br/>
@@ -34,8 +37,9 @@
 • Multinomial Naive Bayes: 0.943<br/>
 • Decision Tree: 0.98<br/>
 • **Random Forest: 0.994**<br/>
-• Voting (Decision Tree + Multinomial Naive Bayes): 0.98<br/>
-![matrix](readme-resources/cm.png)<br/>
+• Voting (Decision Tree + Multinomial Naive Bayes): 0.98
+![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/9bf1b72f-f426-4c0c-aefe-6fe734eaf993)
+
 _**Note: Evaluation scores are obtained using cross validation.**_
 
 ## Model Prediction
