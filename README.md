@@ -38,9 +38,14 @@
 • Decision Tree: 0.98<br/>
 • **Random Forest: 0.994**<br/>
 • Voting (Decision Tree + Multinomial Naive Bayes): 0.98
+
+
 ![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/9bf1b72f-f426-4c0c-aefe-6fe734eaf993)
+
 
 _**Note: Evaluation scores are obtained using cross validation.**_
 
 ## Model Prediction
-![Prediction](readme-resources/prediction.PNG)
+
+![image](https://github.com/Siddhartha082/NLP_SPAM_SMS_Classification/assets/110781138/779ce363-b361-4ac7-8da0-06743ff2132a)
+
